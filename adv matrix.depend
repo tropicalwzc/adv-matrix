@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1509502518 source:d:\code\zero.c
+	<stdio.h>
+	<time.h>
+
+1509502820 source:d:\code\adv matrix\main.c
+	<stdio.h>
+	<float.h>
+	"zero.h"
+
+1509502548 d:\code\adv matrix\zero.h
+
